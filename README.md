@@ -46,3 +46,8 @@
 
 ![Inflearn](https://img.shields.io/badge/Inflearn-00C471?style=for-the-badge&logo=inflearn&logoColor=white)
 ![Codeit](https://img.shields.io/badge/Codeit-A435F0?style=for-the-badge&logo=inflearn&logoColor=white)
+
+--- 
+### 🎄 My Github Stats 🎄
+
+![jaeseok GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonheo1125&show_icons=true&hide_rank=true)
